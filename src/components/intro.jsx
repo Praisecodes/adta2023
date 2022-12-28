@@ -10,17 +10,17 @@ export default function Intro(){
                     Students of the National 
                     Open University of Nigeria
                 </h1>
-                <div className="flex flex-row w-fit justify-around flex-wrap items-center px-0 py-10">
+                <div className="py-10">
                     <a 
                         href="https://docs.google.com/forms/u/1/d/e/1FAIpQLSfF8uzgSfjNrb17UvBkELw8n5kCwn6n9Qg86qOiIoSAcrTK9w/viewform"
                         className="btn no-animation text-white my-2 bg-greenUsed border-0 font-inter rounded px-12 hover:bg-greenUsed normal-case font-normal text-base"
                     >
                         Register
                     </a>
-
+                    {" "}
                     <a 
                         href="https://flutterwave.com/pay/s1kc9us86zlw"
-                        className="btn no-animation text-white mx-6 my-2 bg-greenUsed border-0 font-inter rounded px-12 hover:bg-greenUsed normal-case font-normal text-base"
+                        className="btn no-animation text-white lg:mx-6 my-2 bg-greenUsed border-0 font-inter rounded px-12 hover:bg-greenUsed normal-case font-normal text-base"
                     >
                         Get Ticket
                     </a>
