@@ -11,6 +11,7 @@ module.exports = {
         whiteHover: '#ffffffdd',
         grayText: '#B3B3B3',
         greenUsed: '#15C013',
+        blueUsed: '#06002B',
       },
       fontFamily: {
         inter: ["Inter"],
@@ -18,6 +19,7 @@ module.exports = {
       },
       backgroundImage: {
         'first-div': "url('/src/assets/background.png')",
+        'about-div': "url('/src/assets/sideImg.png')",
       },
       spacing: {
         'almostCover': '70vh',

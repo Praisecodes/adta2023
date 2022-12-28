@@ -1,7 +1,7 @@
 export default function Intro(){
     return (
         <div className="bg-first-div bg-center bg-cover bg-no-repeat font-inter">
-            <div className="bg-headerBg lg:px-12 px-4 py-28 lg:py-32 text-white">
+            <div className="bg-headerBg lg:px-12 px-2 py-28 lg:py-32 text-white">
                 <p className="text-grayText font-bold text-xl">
                     (Nacos Noun National)
                 </p> <br />
