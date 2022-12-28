@@ -3,12 +3,11 @@ export default function Intro(){
         <div className="bg-first-div bg-center bg-cover bg-no-repeat font-inter">
             <div className="bg-headerBg lg:px-12 px-2 py-28 lg:py-32 text-white">
                 <p className="text-grayText font-bold text-xl">
-                    (Nacos Noun National)
+                    (Nacos Noun Presents)
                 </p> <br />
                 <h1 className="text-white lg:text-6xl text-3xl font-lato font-bold w-4/5">
-                    The Nigerian Association of Computing
-                    Students of the National 
-                    Open University of Nigeria
+                    ADTA''23 CONFERENCE <br />
+                    Advancing Technology and Innovation Conference
                 </h1>
                 <div className="py-10">
                     <a 

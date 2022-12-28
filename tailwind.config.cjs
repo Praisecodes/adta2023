@@ -12,6 +12,7 @@ module.exports = {
         grayText: '#B3B3B3',
         greenUsed: '#15C013',
         blueUsed: '#06002B',
+        notWhite: '#FBFBFB',
       },
       fontFamily: {
         inter: ["Inter"],
@@ -23,6 +24,9 @@ module.exports = {
       },
       spacing: {
         'almostCover': '70vh',
+      },
+      boxShadow: {
+        custom: '0px 0px 12px 1px rgba(200, 200, 200, 0.2)',
       }
     },
   },
