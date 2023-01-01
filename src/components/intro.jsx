@@ -1,11 +1,11 @@
 export default function Intro(){
     return (
-        <div className="bg-first-div bg-center bg-cover bg-no-repeat font-inter">
-            <div className="bg-headerBg lg:px-12 px-2 py-28 lg:py-32 text-white">
+        <div className="animate-carousel bg-center bg-cover bg-no-repeat font-inter">
+            <div className="bg-headerBg lg:px-12 px-2 h-screen flex flex-col justify-center text-white">
                 <p className="text-grayText font-bold text-xl">
                     (Nacos Noun Presents)
                 </p> <br />
-                <h1 className="text-white lg:text-6xl text-3xl font-lato font-bold w-4/5">
+                <h1 className="text-white lg:text-6xl text-3xl font-lato font-bold lg:w-4/5">
                     ADTA''23 CONFERENCE <br />
                     Advancing Technology and Innovation Conference
                 </h1>
