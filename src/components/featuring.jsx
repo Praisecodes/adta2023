@@ -5,7 +5,7 @@ export default function Featuring(){
         {
             id: 1,
             icon: 'https://summit.nacosnoun.com.ng/asset/imgs/f.png',
-            title: "Software Exhibition",
+            title: "Games",
         },
         {
             id: 2,

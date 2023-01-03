@@ -20,7 +20,7 @@ module.exports = {
       },
       backgroundImage: {
         'first-div': "url('/src/assets/background.png')",
-        'about-div': "url('/src/assets/sideImg.png')",
+        'about-div': "url('/src/assets/background/ADTA 1.gif')",
       },
       spacing: {
         'almostCover': '70vh',

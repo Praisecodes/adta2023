@@ -48,7 +48,7 @@ export default function About() {
                         Hybrid
                     </button>
                     <p className={`${(comingSoon)?'block':'hidden'} text-lg text-greenUsed font-lato`}>
-                        ADTA Conference Inperson Conference Coming Up Soon which Participants will be eligible to certificate of participation.
+                        ADTA ConferenceHybrid (In Person) Conference Coming Up 10th - 11th March 2023 at Lagos Study Center, VI.
                     </p>
                 </div>
             </div>
