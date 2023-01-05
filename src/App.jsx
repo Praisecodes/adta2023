@@ -3,6 +3,7 @@ import Intro from "./components/intro"
 import About from "./components/about"
 import Footer from "./components/footer"
 import Featuring from "./components/featuring"
+import Speakers from "./components/speakers"
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Intro />
       <About />
       <Featuring />
+      <Speakers />
       <Footer />
     </>
   )
